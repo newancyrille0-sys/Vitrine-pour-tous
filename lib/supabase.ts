@@ -1,0 +1,2 @@
+NEXT_PUBLIC_SUPABASE_URL=https://kipptfomluknnpkyikor.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=ta_cle_publique_anon
